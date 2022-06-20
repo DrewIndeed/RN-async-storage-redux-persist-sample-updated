@@ -1,0 +1,6 @@
+Source article: https://blog.jscrambler.com/how-to-use-redux-persist-in-react-native-with-asyncstorage
+Source repo: https://github.com/amandeepmittal/react-native-examples/tree/main/redux-persist-asyncstorage
+Since: January 8, 2021
+
+- DrewIndeed: this repo updated necessary dependencies version to make it runnable
+- Updated: 20/06/2022
